@@ -5,12 +5,16 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on some projects
- 🌱 I’m currently learning Rust
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: Patryk.patryk12@protonmail.com
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on some projects
+🌱 I’m currently learning __Rust__
+📫 How to reach me: __Patryk.Patryk12@protonmail.com__
