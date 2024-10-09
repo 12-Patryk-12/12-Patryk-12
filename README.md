@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some projects
+- 🔭 I’m currently working on 12-patryk-12/
 - 🌱 I’m currently learning __Rust__
 - 📫 How to reach me: __Patryk.Patryk12@protonmail.com__
